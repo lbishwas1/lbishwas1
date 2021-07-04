@@ -1,4 +1,4 @@
-### Hi there, I'm Bishwas - aka [lazyfisherman][website] 👋
+### Hi there, I'm Bishwas - aka [lazyfisherman][bishwaslamsal.com.np] 👋
 
 ## I'm a JavaScript Developer, and CS Student!!
 
@@ -33,4 +33,3 @@
 
 
 <!----[![Anurag's GitHub stats](https://github-stat-xi.vercel.app/api?username=lbishwas1)](https://github.com/anuraghazra/github-readme-stats) ----->
-
