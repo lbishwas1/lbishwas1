@@ -1,4 +1,4 @@
-### Hi there, I'm Bishwas - aka [lazyfisherman][bishwaslamsal.com.np] 👋
+### Hi there, I'm Bishwas - aka [lazyfisherman](bishwaslamsal.com.np) 👋
 
 ## I'm a JavaScript Developer, and CS Student!!
 
